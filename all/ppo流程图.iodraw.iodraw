@@ -158,6 +158,9 @@
         <mxCell id="m_fUNVI1kiVJ-c9bkPLX-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m_fUNVI1kiVJ-c9bkPLX-65" target="m_fUNVI1kiVJ-c9bkPLX-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="m_fUNVI1kiVJ-c9bkPLX-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m_fUNVI1kiVJ-c9bkPLX-65" target="m_fUNVI1kiVJ-c9bkPLX-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m_fUNVI1kiVJ-c9bkPLX-65" value="计算总损失函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="905" y="550" width="110" height="30" as="geometry" />
         </mxCell>
