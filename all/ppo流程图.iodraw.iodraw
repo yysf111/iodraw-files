@@ -25,7 +25,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m_fUNVI1kiVJ-c9bkPLX-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m_fUNVI1kiVJ-c9bkPLX-6" target="m_fUNVI1kiVJ-c9bkPLX-90">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="430" />
+              <mxPoint x="240" y="490" />
+              <mxPoint x="150" y="490" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="m_fUNVI1kiVJ-c9bkPLX-6" value="开始训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="400" width="120" height="60" as="geometry" />
@@ -49,6 +55,9 @@
         </mxCell>
         <mxCell id="m_fUNVI1kiVJ-c9bkPLX-9" value="CRITIC网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="370" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="m_fUNVI1kiVJ-c9bkPLX-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m_fUNVI1kiVJ-c9bkPLX-11" target="m_fUNVI1kiVJ-c9bkPLX-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m_fUNVI1kiVJ-c9bkPLX-11" value="初始状态S0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="80" width="120" height="60" as="geometry" />
