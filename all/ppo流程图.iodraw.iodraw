@@ -25,7 +25,7 @@
         <mxCell id="m_fUNVI1kiVJ-c9bkPLX-9" value="CRITIC网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="350" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="m_fUNVI1kiVJ-c9bkPLX-11" value="初始化相关参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m_fUNVI1kiVJ-c9bkPLX-11" value="初始状态S0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
