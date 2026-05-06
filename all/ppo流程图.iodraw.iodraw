@@ -106,6 +106,9 @@
         <mxCell id="m_fUNVI1kiVJ-c9bkPLX-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m_fUNVI1kiVJ-c9bkPLX-29" target="m_fUNVI1kiVJ-c9bkPLX-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="m_fUNVI1kiVJ-c9bkPLX-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m_fUNVI1kiVJ-c9bkPLX-29" target="m_fUNVI1kiVJ-c9bkPLX-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m_fUNVI1kiVJ-c9bkPLX-29" value="计算GAE优势" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="287.5" width="120" height="60" as="geometry" />
         </mxCell>
@@ -136,7 +139,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m_fUNVI1kiVJ-c9bkPLX-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m_fUNVI1kiVJ-c9bkPLX-37" target="m_fUNVI1kiVJ-c9bkPLX-45">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="974" y="420" />
+              <mxPoint x="1025" y="420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="m_fUNVI1kiVJ-c9bkPLX-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m_fUNVI1kiVJ-c9bkPLX-37" target="m_fUNVI1kiVJ-c9bkPLX-46">
           <mxGeometry relative="1" as="geometry" />
