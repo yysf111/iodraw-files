@@ -155,6 +155,9 @@
         <mxCell id="m_fUNVI1kiVJ-c9bkPLX-54" value="损失计算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="980" y="510" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="m_fUNVI1kiVJ-c9bkPLX-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m_fUNVI1kiVJ-c9bkPLX-65" target="m_fUNVI1kiVJ-c9bkPLX-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m_fUNVI1kiVJ-c9bkPLX-65" value="计算总损失函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="905" y="550" width="110" height="30" as="geometry" />
         </mxCell>
@@ -177,7 +180,7 @@
           <mxGeometry x="635" y="655" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m_fUNVI1kiVJ-c9bkPLX-74" value="回合是否结束" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="620" width="80" height="60" as="geometry" />
+          <mxGeometry x="905" y="615" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
