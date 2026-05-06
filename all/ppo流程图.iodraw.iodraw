@@ -152,8 +152,8 @@
         <mxCell id="m_fUNVI1kiVJ-c9bkPLX-54" value="损失计算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="980" y="510" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="m_fUNVI1kiVJ-c9bkPLX-65" value="计算新旧策略比率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="440" width="110" height="30" as="geometry" />
+        <mxCell id="m_fUNVI1kiVJ-c9bkPLX-65" value="计算总损失函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="905" y="550" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
