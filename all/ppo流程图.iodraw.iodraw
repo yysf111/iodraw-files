@@ -73,7 +73,7 @@
         <mxCell id="m_fUNVI1kiVJ-c9bkPLX-29" value="计算GAE优势" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m_fUNVI1kiVJ-c9bkPLX-30" value="初始状态S0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m_fUNVI1kiVJ-c9bkPLX-30" value="计算回报&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:等线;&lt;br/&gt;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ligatures:none;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;&lt;img src=&quot;data:image/png;base64,R0lGODlhFAAXAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAABgAUABEAhAAAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAZjo6kDpmkDqQ22YAAGa222a2/5A6AJDb/7ZmALZmOrZmZrbb/7b//9uQOtv///+2Zv/bkP/btv/b2///tv//2wECAwV1IAB0TWCahCOu7Ko1BgZ4UvC0uIYwLnLgrYyt9wOuLgPLqnYzziAxAGcS4DlHpdOichUJb5tGsXsRREQSc0ujkIk8UPdlyJKMsWOhdQQ5RedjJFEiJE0AQiZFcAEKXAAaCUpdLReDk0t3l3AMHhRnlwBzBZ8hADs=&quot; height=&quot;18&quot; width=&quot;16&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
