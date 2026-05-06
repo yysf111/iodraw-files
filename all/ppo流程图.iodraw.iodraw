@@ -22,6 +22,9 @@
         <mxCell id="m_fUNVI1kiVJ-c9bkPLX-8" value="ACTOR网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="100" width="200" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="m_fUNVI1kiVJ-c9bkPLX-9" value="CRITIC网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="270" width="200" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
