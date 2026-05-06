@@ -16,9 +16,6 @@
         <mxCell id="m_fUNVI1kiVJ-c9bkPLX-4" value="初始化相关参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m_fUNVI1kiVJ-c9bkPLX-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m_fUNVI1kiVJ-c9bkPLX-6" target="m_fUNVI1kiVJ-c9bkPLX-90">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="m_fUNVI1kiVJ-c9bkPLX-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m_fUNVI1kiVJ-c9bkPLX-6" target="m_fUNVI1kiVJ-c9bkPLX-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -26,6 +23,9 @@
               <mxPoint x="240" y="110" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="m_fUNVI1kiVJ-c9bkPLX-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m_fUNVI1kiVJ-c9bkPLX-6" target="m_fUNVI1kiVJ-c9bkPLX-90">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m_fUNVI1kiVJ-c9bkPLX-6" value="开始训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="400" width="120" height="60" as="geometry" />
