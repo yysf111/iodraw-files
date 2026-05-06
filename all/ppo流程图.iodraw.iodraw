@@ -167,8 +167,11 @@
         <mxCell id="m_fUNVI1kiVJ-c9bkPLX-69" value="8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="650" y="660" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m_fUNVI1kiVJ-c9bkPLX-70" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="645" y="518" width="50" height="30" as="geometry" />
+        <mxCell id="m_fUNVI1kiVJ-c9bkPLX-70" value="策略及价值更新" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="615" y="518" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m_fUNVI1kiVJ-c9bkPLX-71" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="685" y="578" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
