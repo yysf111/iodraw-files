@@ -31,6 +31,11 @@
         <mxCell id="m_fUNVI1kiVJ-c9bkPLX-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="m_fUNVI1kiVJ-c9bkPLX-9" target="m_fUNVI1kiVJ-c9bkPLX-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="m_fUNVI1kiVJ-c9bkPLX-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="m_fUNVI1kiVJ-c9bkPLX-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="430" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="m_fUNVI1kiVJ-c9bkPLX-9" value="CRITIC网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="370" width="200" height="120" as="geometry" />
         </mxCell>
