@@ -48,6 +48,9 @@
         <mxCell id="m_fUNVI1kiVJ-c9bkPLX-13" value="环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="77.5" width="200" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="m_fUNVI1kiVJ-c9bkPLX-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m_fUNVI1kiVJ-c9bkPLX-14" target="m_fUNVI1kiVJ-c9bkPLX-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m_fUNVI1kiVJ-c9bkPLX-14" value="输出数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="172.5" width="200" height="50" as="geometry" />
         </mxCell>
