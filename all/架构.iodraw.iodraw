@@ -37,7 +37,7 @@
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-11" value="通过获得的RGB信息判断敌我，通过线性回归预测轨迹并开火" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="445" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="INrdFPlN_ApLvBLkQ9dH-13" value="通过机器学习算法进行自动避障" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="INrdFPlN_ApLvBLkQ9dH-13" value="使用机器学习算法，通过不断试错优化策略，进行自动避障" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="445" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
