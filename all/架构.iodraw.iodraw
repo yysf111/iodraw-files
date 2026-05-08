@@ -34,6 +34,9 @@
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-6" value="自动避障模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="305" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="INrdFPlN_ApLvBLkQ9dH-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="INrdFPlN_ApLvBLkQ9dH-11" target="INrdFPlN_ApLvBLkQ9dH-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-11" value="通过获得的RGB信息判断敌我，通过线性回归预测轨迹" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="445" width="120" height="60" as="geometry" />
         </mxCell>
@@ -41,7 +44,10 @@
           <mxGeometry x="490" y="445" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-15" value="开火指令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="INrdFPlN_ApLvBLkQ9dH-17" value="开火指令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
