@@ -28,6 +28,9 @@
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-5" value="自动射击模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="305" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="INrdFPlN_ApLvBLkQ9dH-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="INrdFPlN_ApLvBLkQ9dH-6" target="INrdFPlN_ApLvBLkQ9dH-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-6" value="自动避障模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="305" width="120" height="60" as="geometry" />
         </mxCell>
@@ -37,8 +40,8 @@
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-11" value="通过获得的RGB信息判断敌我，通过线性回归预测轨迹并开火" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="445" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="INrdFPlN_ApLvBLkQ9dH-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="INrdFPlN_ApLvBLkQ9dH-13" value="通过机器学习算法进行自动避障" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="445" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
