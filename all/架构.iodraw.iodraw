@@ -40,6 +40,9 @@
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-13" value="使用机器学习算法，通过不断试错优化策略，进行自动避障" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="445" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="INrdFPlN_ApLvBLkQ9dH-15" value="开火指令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
