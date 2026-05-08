@@ -46,8 +46,8 @@
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-15" value="开火指令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="INrdFPlN_ApLvBLkQ9dH-17" value="开火指令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="570" width="120" height="60" as="geometry" />
+        <mxCell id="INrdFPlN_ApLvBLkQ9dH-17" value="移动指令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
