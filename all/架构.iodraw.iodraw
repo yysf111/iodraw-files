@@ -40,6 +40,9 @@
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-11" value="通过获得的RGB信息判断敌我，通过线性回归预测轨迹" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="445" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="INrdFPlN_ApLvBLkQ9dH-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="INrdFPlN_ApLvBLkQ9dH-13" target="INrdFPlN_ApLvBLkQ9dH-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-13" value="使用机器学习算法，通过不断试错优化策略，进行自动避障" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="445" width="120" height="60" as="geometry" />
         </mxCell>
@@ -48,6 +51,9 @@
         </mxCell>
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-17" value="移动指令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="INrdFPlN_ApLvBLkQ9dH-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="650" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
