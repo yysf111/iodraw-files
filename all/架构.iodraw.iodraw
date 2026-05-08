@@ -22,14 +22,14 @@
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-4" value="智能体从环境中获得数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="425" y="178" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="INrdFPlN_ApLvBLkQ9dH-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="INrdFPlN_ApLvBLkQ9dH-5" value="自动射击模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-9" value="RGB信息&lt;div&gt;距离&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="215" y="283" width="70" height="40" as="geometry" />
+          <mxGeometry x="230" y="300" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
