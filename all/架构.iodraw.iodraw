@@ -13,8 +13,11 @@
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-2" value="智能体" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="390" y="240" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="INrdFPlN_ApLvBLkQ9dH-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="415" y="178" width="50" height="30" as="geometry" />
+        <mxCell id="INrdFPlN_ApLvBLkQ9dH-4" value="智能体从环境中获得数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="178" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="INrdFPlN_ApLvBLkQ9dH-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
