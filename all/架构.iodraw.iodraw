@@ -22,14 +22,20 @@
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-4" value="智能体从环境中获得数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="425" y="178" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="INrdFPlN_ApLvBLkQ9dH-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="INrdFPlN_ApLvBLkQ9dH-5" target="INrdFPlN_ApLvBLkQ9dH-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-5" value="自动射击模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="305" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-6" value="自动避障模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="305" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="305" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="INrdFPlN_ApLvBLkQ9dH-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="445" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
