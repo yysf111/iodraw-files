@@ -10,15 +10,11 @@
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-1" value="环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="INrdFPlN_ApLvBLkQ9dH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="INrdFPlN_ApLvBLkQ9dH-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="305" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="INrdFPlN_ApLvBLkQ9dH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="INrdFPlN_ApLvBLkQ9dH-2" target="INrdFPlN_ApLvBLkQ9dH-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="INrdFPlN_ApLvBLkQ9dH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="INrdFPlN_ApLvBLkQ9dH-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="305" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="INrdFPlN_ApLvBLkQ9dH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="INrdFPlN_ApLvBLkQ9dH-2" target="INrdFPlN_ApLvBLkQ9dH-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-2" value="智能体" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="390" y="208" width="80" height="80" as="geometry" />
@@ -26,29 +22,41 @@
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-4" value="智能体从环境中获得信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="425" y="178" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="INrdFPlN_ApLvBLkQ9dH-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="INrdFPlN_ApLvBLkQ9dH-5" target="INrdFPlN_ApLvBLkQ9dH-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INrdFPlN_ApLvBLkQ9dH-5" value="自动射击模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="305" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="INrdFPlN_ApLvBLkQ9dH-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="INrdFPlN_ApLvBLkQ9dH-6" target="INrdFPlN_ApLvBLkQ9dH-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INrdFPlN_ApLvBLkQ9dH-6" value="自动避障模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="305" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="INrdFPlN_ApLvBLkQ9dH-11" target="INrdFPlN_ApLvBLkQ9dH-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-11" value="通过获得的RGB信息判断敌我，通过线性回归预测轨迹" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="445" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="INrdFPlN_ApLvBLkQ9dH-13" target="INrdFPlN_ApLvBLkQ9dH-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-13" value="使用机器学习算法，通过不断试错优化策略，进行自动避障" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="445" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="INrdFPlN_ApLvBLkQ9dH-15" target="INrdFPlN_ApLvBLkQ9dH-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-15" value="开火指令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="INrdFPlN_ApLvBLkQ9dH-17" target="INrdFPlN_ApLvBLkQ9dH-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-17" value="移动指令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="INrdFPlN_ApLvBLkQ9dH-19" value="合并输出" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="390" y="650" width="80" height="80" as="geometry" />
