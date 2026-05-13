@@ -4,48 +4,48 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xW8jlrCcknYdyWMjudhx-1" value="" style="whiteSpace=wrap;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+        <mxCell id="xW8jlrCcknYdyWMjudhx-1" value="" style="whiteSpace=wrap;strokeWidth=2;dashed=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="320" y="320" width="580" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="xW8jlrCcknYdyWMjudhx-2" value="" style="whiteSpace=wrap;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+        <mxCell id="xW8jlrCcknYdyWMjudhx-2" value="" style="whiteSpace=wrap;strokeWidth=2;dashed=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="320" y="90" width="580" height="157" as="geometry" />
         </mxCell>
-        <mxCell id="xW8jlrCcknYdyWMjudhx-3" value="【 控制模块 】&#xa;算法选择 / 参数配置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="355" y="155" width="206" height="67" as="geometry" />
+        <mxCell id="xW8jlrCcknYdyWMjudhx-3" value="控制模块&#xa;算法选择 / 参数配置" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="355" y="154" width="206" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="xW8jlrCcknYdyWMjudhx-4" value="【 渲染模块 】&#xa;实时画面 / 指标监控折线图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="xW8jlrCcknYdyWMjudhx-4" value="渲染模块&#xa;实时画面 / 指标监控折线图" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="631" y="155" width="254" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="xW8jlrCcknYdyWMjudhx-5" value="智能体" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="xW8jlrCcknYdyWMjudhx-5" value="智能体" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="371" y="344" width="175" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="xW8jlrCcknYdyWMjudhx-6" value="环境" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="xW8jlrCcknYdyWMjudhx-6" value="环境" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="389" y="501" width="138" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="xW8jlrCcknYdyWMjudhx-7" value="启停指令 / 配置参数" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="xW8jlrCcknYdyWMjudhx-3" target="xW8jlrCcknYdyWMjudhx-5">
+        <mxCell id="xW8jlrCcknYdyWMjudhx-7" value="启停指令 / 配置参数" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;" edge="1" parent="1" source="xW8jlrCcknYdyWMjudhx-3" target="xW8jlrCcknYdyWMjudhx-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xW8jlrCcknYdyWMjudhx-8" value="动作" style="curved=1;startArrow=none;endArrow=block;exitX=0.37;exitY=1.01;entryX=0.34;entryY=0.01;rounded=0;" edge="1" parent="1" source="xW8jlrCcknYdyWMjudhx-5" target="xW8jlrCcknYdyWMjudhx-6">
+        <mxCell id="xW8jlrCcknYdyWMjudhx-8" value="动作" style="curved=1;startArrow=none;endArrow=block;exitX=0.37;exitY=1.01;entryX=0.34;entryY=0.01;rounded=0;fontFamily=宋体;" edge="1" parent="1" source="xW8jlrCcknYdyWMjudhx-5" target="xW8jlrCcknYdyWMjudhx-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="416" y="465" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xW8jlrCcknYdyWMjudhx-9" value="状态/奖励" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=0.01;entryX=0.61;entryY=1.01;rounded=0;" edge="1" parent="1" source="xW8jlrCcknYdyWMjudhx-6" target="xW8jlrCcknYdyWMjudhx-5">
+        <mxCell id="xW8jlrCcknYdyWMjudhx-9" value="状态/奖励" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=0.01;entryX=0.61;entryY=1.01;rounded=0;fontFamily=宋体;" edge="1" parent="1" source="xW8jlrCcknYdyWMjudhx-6" target="xW8jlrCcknYdyWMjudhx-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="496" y="465" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xW8jlrCcknYdyWMjudhx-10" value="主线程序&amp;nbsp; （Pyqt前端）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="521" y="100" width="150" height="30" as="geometry" />
+        <mxCell id="xW8jlrCcknYdyWMjudhx-10" value="主线程 （Pyqt前端）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="526" y="100" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xW8jlrCcknYdyWMjudhx-11" value="QThread 后台" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="546" y="320" width="100" height="30" as="geometry" />
+        <mxCell id="xW8jlrCcknYdyWMjudhx-11" value="子线程 (QThread 后台算法训练)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="491" y="320" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
