@@ -51,8 +51,8 @@
         <mxCell id="xW8jlrCcknYdyWMjudhx-20" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 宋体; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;启停指令 / 配置参数&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="270" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xW8jlrCcknYdyWMjudhx-21" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="635" y="258" width="50" height="30" as="geometry" />
+        <mxCell id="xW8jlrCcknYdyWMjudhx-21" value="画面/数据/日志信号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="270" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
