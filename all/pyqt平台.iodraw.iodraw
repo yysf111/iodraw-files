@@ -16,7 +16,7 @@
         <mxCell id="xW8jlrCcknYdyWMjudhx-4" value="【 渲染模块 】&#xa;实时画面 / 指标监控折线图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="311" y="45" width="254" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="xW8jlrCcknYdyWMjudhx-5" value="强化学习&#xa;智能体&#xa;(PPO/SAC/DQN)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="xW8jlrCcknYdyWMjudhx-5" value="智能体" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="71" y="234" width="175" height="84" as="geometry" />
         </mxCell>
         <mxCell id="xW8jlrCcknYdyWMjudhx-6" value="环境" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
