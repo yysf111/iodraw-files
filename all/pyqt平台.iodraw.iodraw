@@ -13,9 +13,6 @@
         <mxCell id="xW8jlrCcknYdyWMjudhx-3" value="控制模块&#xa;算法选择 / 参数配置" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="355" y="154" width="206" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="xW8jlrCcknYdyWMjudhx-4" value="渲染模块&#xa;实时画面 / 指标监控折线图" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="631" y="155" width="254" height="67" as="geometry" />
-        </mxCell>
         <mxCell id="xW8jlrCcknYdyWMjudhx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="xW8jlrCcknYdyWMjudhx-5" target="xW8jlrCcknYdyWMjudhx-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -42,8 +39,8 @@
         <mxCell id="xW8jlrCcknYdyWMjudhx-15" value="动作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="581" y="370" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xW8jlrCcknYdyWMjudhx-16" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="755" y="268" width="50" height="30" as="geometry" />
+        <mxCell id="xW8jlrCcknYdyWMjudhx-16" value="奖励" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="581" y="410" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
