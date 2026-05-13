@@ -20,7 +20,7 @@
           <mxGeometry x="371" y="344" width="175" height="84" as="geometry" />
         </mxCell>
         <mxCell id="xW8jlrCcknYdyWMjudhx-6" value="环境" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="389" y="501" width="138" height="84" as="geometry" />
+          <mxGeometry x="430" y="480" width="138" height="84" as="geometry" />
         </mxCell>
         <mxCell id="xW8jlrCcknYdyWMjudhx-7" value="启停指令 / 配置参数" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;" edge="1" parent="1" source="xW8jlrCcknYdyWMjudhx-3" target="xW8jlrCcknYdyWMjudhx-5">
           <mxGeometry relative="1" as="geometry">
