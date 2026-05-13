@@ -41,8 +41,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xW8jlrCcknYdyWMjudhx-10" value="主线程序Pyqt前端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="536" y="100" width="120" height="30" as="geometry" />
+        <mxCell id="xW8jlrCcknYdyWMjudhx-10" value="主线程序&amp;nbsp; Pyqt前端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="531" y="100" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xW8jlrCcknYdyWMjudhx-11" value="QThread 后台" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="546" y="320" width="100" height="30" as="geometry" />
