@@ -33,6 +33,9 @@
         <mxCell id="xW8jlrCcknYdyWMjudhx-11" value="子线程 (QThread 后台算法训练)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="491" y="320" width="210" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xW8jlrCcknYdyWMjudhx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="xW8jlrCcknYdyWMjudhx-12" target="xW8jlrCcknYdyWMjudhx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xW8jlrCcknYdyWMjudhx-12" value="环境" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="670.5" y="370" width="175" height="84" as="geometry" />
         </mxCell>
