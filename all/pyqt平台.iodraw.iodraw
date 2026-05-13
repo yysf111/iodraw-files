@@ -1,0 +1,47 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="QCzR092CuvCjbLhUV5yj">
+    <mxGraphModel dx="903" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xW8jlrCcknYdyWMjudhx-1" value="子线程 (QThread 后台算法训练)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="36" y="209" width="251" height="291" as="geometry" />
+        </mxCell>
+        <mxCell id="xW8jlrCcknYdyWMjudhx-2" value="主线程 (PyQt 前端交互与可视化)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="580" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="xW8jlrCcknYdyWMjudhx-3" value="【 控制模块 】&#xa;算法选择 / 参数配置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="45" width="206" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="xW8jlrCcknYdyWMjudhx-4" value="【 渲染模块 】&#xa;实时画面 / 指标监控折线图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="311" y="45" width="254" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="xW8jlrCcknYdyWMjudhx-5" value="强化学习&#xa;智能体&#xa;(PPO/SAC/DQN)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="71" y="234" width="175" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="xW8jlrCcknYdyWMjudhx-6" value="二维飞行&#xa;仿真环境&#xa;(FlightEnv)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="89" y="391" width="138" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="xW8jlrCcknYdyWMjudhx-7" value="启停指令 / 配置参数" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="xW8jlrCcknYdyWMjudhx-3" target="xW8jlrCcknYdyWMjudhx-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xW8jlrCcknYdyWMjudhx-8" value="动作" style="curved=1;startArrow=none;endArrow=block;exitX=0.37;exitY=1.01;entryX=0.34;entryY=0.01;rounded=0;" edge="1" parent="1" source="xW8jlrCcknYdyWMjudhx-5" target="xW8jlrCcknYdyWMjudhx-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="116" y="355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xW8jlrCcknYdyWMjudhx-9" value="状态/奖励" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=0.01;entryX=0.61;entryY=1.01;rounded=0;" edge="1" parent="1" source="xW8jlrCcknYdyWMjudhx-6" target="xW8jlrCcknYdyWMjudhx-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="196" y="355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
