@@ -19,7 +19,7 @@
         <mxCell id="xW8jlrCcknYdyWMjudhx-5" value="强化学习&#xa;智能体&#xa;(PPO/SAC/DQN)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="71" y="234" width="175" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="xW8jlrCcknYdyWMjudhx-6" value="二维飞行&#xa;仿真环境&#xa;(FlightEnv)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="xW8jlrCcknYdyWMjudhx-6" value="环境" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="89" y="391" width="138" height="84" as="geometry" />
         </mxCell>
         <mxCell id="xW8jlrCcknYdyWMjudhx-7" value="启停指令 / 配置参数" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="xW8jlrCcknYdyWMjudhx-3" target="xW8jlrCcknYdyWMjudhx-5">
