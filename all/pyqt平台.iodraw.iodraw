@@ -7,7 +7,7 @@
         <mxCell id="xW8jlrCcknYdyWMjudhx-1" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="320" y="320" width="580" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="xW8jlrCcknYdyWMjudhx-2" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="xW8jlrCcknYdyWMjudhx-2" value="" style="whiteSpace=wrap;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="90" width="580" height="157" as="geometry" />
         </mxCell>
         <mxCell id="xW8jlrCcknYdyWMjudhx-3" value="【 控制模块 】&#xa;算法选择 / 参数配置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
