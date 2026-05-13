@@ -13,7 +13,7 @@
         <mxCell id="xW8jlrCcknYdyWMjudhx-3" value="控制模块&#xa;算法选择 / 参数配置" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="355" y="154" width="205" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="xW8jlrCcknYdyWMjudhx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="xW8jlrCcknYdyWMjudhx-5" target="xW8jlrCcknYdyWMjudhx-12">
+        <mxCell id="xW8jlrCcknYdyWMjudhx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="xW8jlrCcknYdyWMjudhx-5" target="xW8jlrCcknYdyWMjudhx-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xW8jlrCcknYdyWMjudhx-5" value="智能体" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
@@ -30,29 +30,29 @@
         <mxCell id="xW8jlrCcknYdyWMjudhx-11" value="子线程 (QThread 后台算法训练)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="491" y="320" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xW8jlrCcknYdyWMjudhx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="xW8jlrCcknYdyWMjudhx-12" target="xW8jlrCcknYdyWMjudhx-5">
+        <mxCell id="xW8jlrCcknYdyWMjudhx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="xW8jlrCcknYdyWMjudhx-12" target="xW8jlrCcknYdyWMjudhx-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xW8jlrCcknYdyWMjudhx-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xW8jlrCcknYdyWMjudhx-12" target="xW8jlrCcknYdyWMjudhx-18">
+        <mxCell id="xW8jlrCcknYdyWMjudhx-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="xW8jlrCcknYdyWMjudhx-12" target="xW8jlrCcknYdyWMjudhx-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xW8jlrCcknYdyWMjudhx-12" value="环境" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="670.5" y="370" width="175" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="xW8jlrCcknYdyWMjudhx-15" value="动作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="xW8jlrCcknYdyWMjudhx-15" value="动作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="581" y="370" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xW8jlrCcknYdyWMjudhx-16" value="奖励/状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="571" y="410" width="70" height="30" as="geometry" />
+        <mxCell id="xW8jlrCcknYdyWMjudhx-16" value="奖励/状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="566" y="410" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xW8jlrCcknYdyWMjudhx-18" value="渲染模块&#xa;实时画面 / 指标监控折线图" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="655" y="154" width="206" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="xW8jlrCcknYdyWMjudhx-20" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 宋体; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;启停指令 / 配置参数&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xW8jlrCcknYdyWMjudhx-20" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;启停指令 / 配置参数&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="460" y="270" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xW8jlrCcknYdyWMjudhx-21" value="画面/数据/日志信号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="760" y="270" width="130" height="30" as="geometry" />
+        <mxCell id="xW8jlrCcknYdyWMjudhx-21" value="画面/数据/日志信号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="755" y="270" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
