@@ -19,19 +19,9 @@
         <mxCell id="xW8jlrCcknYdyWMjudhx-5" value="智能体" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="371" y="344" width="175" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="xW8jlrCcknYdyWMjudhx-6" value="环境" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="689" y="350" width="138" height="84" as="geometry" />
-        </mxCell>
         <mxCell id="xW8jlrCcknYdyWMjudhx-7" value="启停指令 / 配置参数" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;" edge="1" parent="1" source="xW8jlrCcknYdyWMjudhx-3" target="xW8jlrCcknYdyWMjudhx-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xW8jlrCcknYdyWMjudhx-8" value="动作" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.25;entryX=0;entryY=0.25;rounded=0;fontFamily=宋体;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xW8jlrCcknYdyWMjudhx-5" target="xW8jlrCcknYdyWMjudhx-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="416" y="465" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xW8jlrCcknYdyWMjudhx-10" value="主线程 （Pyqt前端）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
@@ -39,6 +29,9 @@
         </mxCell>
         <mxCell id="xW8jlrCcknYdyWMjudhx-11" value="子线程 (QThread 后台算法训练)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="491" y="320" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xW8jlrCcknYdyWMjudhx-12" value="智能体" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="670.5" y="350" width="175" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
