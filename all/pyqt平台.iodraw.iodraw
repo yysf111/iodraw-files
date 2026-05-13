@@ -44,8 +44,8 @@
         <mxCell id="xW8jlrCcknYdyWMjudhx-10" value="Pyqt前端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="561" y="100" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xW8jlrCcknYdyWMjudhx-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="565" y="268" width="50" height="30" as="geometry" />
+        <mxCell id="xW8jlrCcknYdyWMjudhx-11" value="后端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="571" y="320" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
