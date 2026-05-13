@@ -42,8 +42,8 @@
         <mxCell id="xW8jlrCcknYdyWMjudhx-15" value="动作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="581" y="370" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xW8jlrCcknYdyWMjudhx-16" value="奖励" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="581" y="410" width="50" height="30" as="geometry" />
+        <mxCell id="xW8jlrCcknYdyWMjudhx-16" value="奖励/状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="571" y="410" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xW8jlrCcknYdyWMjudhx-18" value="渲染模块&#xa;实时画面 / 指标监控折线图" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="655" y="154" width="206" height="67" as="geometry" />
@@ -52,7 +52,7 @@
           <mxGeometry x="460" y="270" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xW8jlrCcknYdyWMjudhx-21" value="画面/数据/日志信号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="720" y="270" width="130" height="30" as="geometry" />
+          <mxGeometry x="760" y="270" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
