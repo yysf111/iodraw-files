@@ -30,7 +30,7 @@
         <mxCell id="xW8jlrCcknYdyWMjudhx-11" value="子线程 (QThread 后台算法训练)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="491" y="320" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xW8jlrCcknYdyWMjudhx-12" value="智能体" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="xW8jlrCcknYdyWMjudhx-12" value="环境" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="670.5" y="350" width="175" height="84" as="geometry" />
         </mxCell>
       </root>
