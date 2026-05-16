@@ -55,7 +55,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-25" value="射击路径上&lt;br&gt;是否存在友军？" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="820" y="620" width="135" height="80" as="geometry" />
+          <mxGeometry x="820" y="585" width="135" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-27" target="DSVYktHDZwEtDfmk1ElN-30">
           <mxGeometry relative="1" as="geometry" />
@@ -88,7 +88,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-36" value="交汇点解算与弹道预测" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="827.5" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="827.5" y="513" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
