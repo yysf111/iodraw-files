@@ -15,7 +15,7 @@
         <mxCell id="DSVYktHDZwEtDfmk1ElN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-15" target="DSVYktHDZwEtDfmk1ElN-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DSVYktHDZwEtDfmk1ElN-15" value="不执行射击指令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DSVYktHDZwEtDfmk1ElN-15" value="抑制开火指令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="627.5" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-17">
