@@ -8,34 +8,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-12" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;PyQt5可交互平台搭建&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="640" y="270" width="240" height="60" as="geometry" />
+          <mxGeometry x="180" y="200" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-13" target="YVD0whNBbSc9i28FVQOH-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-13" value="模型训练与算法参数优化" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="640" y="360" width="240" height="60" as="geometry" />
+          <mxGeometry x="180" y="290" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-14" target="YVD0whNBbSc9i28FVQOH-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-14" value="模型测试验证与对比分析" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="640" y="450" width="240" height="60" as="geometry" />
+          <mxGeometry x="180" y="380" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-15" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="700" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-16" target="YVD0whNBbSc9i28FVQOH-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;Python&lt;/font&gt;环境建模与算法设计" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="640" y="180" width="240" height="60" as="geometry" />
+          <mxGeometry x="180" y="110" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-17" target="YVD0whNBbSc9i28FVQOH-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-17" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="700" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="20" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
