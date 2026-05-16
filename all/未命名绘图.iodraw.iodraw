@@ -28,7 +28,7 @@
         <mxCell id="DSVYktHDZwEtDfmk1ElN-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-9" target="DSVYktHDZwEtDfmk1ElN-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DSVYktHDZwEtDfmk1ElN-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;Python&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;环境建模与算法设计&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="DSVYktHDZwEtDfmk1ElN-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;Python&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;环境建模与算法设计&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="180" y="112" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-11" target="DSVYktHDZwEtDfmk1ElN-9">
