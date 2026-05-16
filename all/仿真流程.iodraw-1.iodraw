@@ -4,6 +4,39 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YVD0whNBbSc9i28FVQOH-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-2" target="YVD0whNBbSc9i28FVQOH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YVD0whNBbSc9i28FVQOH-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YVD0whNBbSc9i28FVQOH-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-4" target="YVD0whNBbSc9i28FVQOH-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YVD0whNBbSc9i28FVQOH-4" value="在 Python 中借助 Pygame 构建动态二维飞行避障环境模型， 并设置奖励函数，编写算法程序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="267.5" y="190" width="345" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YVD0whNBbSc9i28FVQOH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-6" target="YVD0whNBbSc9i28FVQOH-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YVD0whNBbSc9i28FVQOH-6" value="启动多线程进行自动射击与避障算法训练，利用 PyQt5实时渲染仿真画面与奖励指标曲线，并在训练中不断优化参数。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="267.5" y="450" width="345" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YVD0whNBbSc9i28FVQOH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-8" target="YVD0whNBbSc9i28FVQOH-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YVD0whNBbSc9i28FVQOH-8" value="用训练好的权重模型验证智能体各项功能效果，将仿真数据保存至 CSV 文件，并利用可视化工具进行对比分析。&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="267.5" y="580" width="345" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YVD0whNBbSc9i28FVQOH-9" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YVD0whNBbSc9i28FVQOH-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-11" target="YVD0whNBbSc9i28FVQOH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YVD0whNBbSc9i28FVQOH-11" value="基于 PyQt5 构建可视化交互控制平台，在训练前设定地图尺寸、基准难度，并配置相关算法的超参数。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="267.5" y="320" width="345" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
