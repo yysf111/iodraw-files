@@ -16,7 +16,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-15" value="抑制开火指令" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="627.5" y="758" width="120" height="60" as="geometry" />
+          <mxGeometry x="627.5" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-17">
           <mxGeometry relative="1" as="geometry">
@@ -31,11 +31,6 @@
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-19" value="线性回归轨迹拟合" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="827.5" y="432" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DSVYktHDZwEtDfmk1ElN-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" target="DSVYktHDZwEtDfmk1ElN-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="687.5" y="700" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-21" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="677.5" y="692" width="40" height="30" as="geometry" />
