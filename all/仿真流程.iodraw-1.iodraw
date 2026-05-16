@@ -34,7 +34,7 @@
         <mxCell id="YVD0whNBbSc9i28FVQOH-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-11" target="YVD0whNBbSc9i28FVQOH-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YVD0whNBbSc9i28FVQOH-11" value="PyQt5 平台交互与超参数配置" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="YVD0whNBbSc9i28FVQOH-11" value="搭建PyQt5 平台实现交互与超参数配置" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="267.5" y="320" width="345" height="90" as="geometry" />
         </mxCell>
       </root>
