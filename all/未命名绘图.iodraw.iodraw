@@ -16,7 +16,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-15" value="抑制开火指令" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="627.5" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="627.5" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-17">
           <mxGeometry relative="1" as="geometry">
@@ -38,7 +38,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-21" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="677.5" y="720" width="40" height="30" as="geometry" />
+          <mxGeometry x="677.5" y="700" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-22" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="747.5" y="640" width="40" height="30" as="geometry" />
@@ -55,7 +55,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-25" value="射击路径上&lt;br&gt;是否存在友军？" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="820" y="620" width="135" height="100" as="geometry" />
+          <mxGeometry x="820" y="620" width="135" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-27" target="DSVYktHDZwEtDfmk1ElN-30">
           <mxGeometry relative="1" as="geometry" />
@@ -70,7 +70,7 @@
           <mxGeometry x="797.5" y="720" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-30" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="627.5" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="627.5" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-32" target="DSVYktHDZwEtDfmk1ElN-19">
           <mxGeometry relative="1" as="geometry" />
