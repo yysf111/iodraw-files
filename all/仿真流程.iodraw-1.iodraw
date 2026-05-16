@@ -14,18 +14,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;Python&lt;/font&gt;环境建模与算法设计" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="267.5" y="190" width="345" height="90" as="geometry" />
+          <mxGeometry x="267.5" y="190" width="342.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-6" target="YVD0whNBbSc9i28FVQOH-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YVD0whNBbSc9i28FVQOH-6" value="进行模型训练并优化算法参数" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="YVD0whNBbSc9i28FVQOH-6" value="模型训练与算法参数优化" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="267.5" y="450" width="345" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-8" target="YVD0whNBbSc9i28FVQOH-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YVD0whNBbSc9i28FVQOH-8" value="对训练好的模型进行性能测试和对比" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="YVD0whNBbSc9i28FVQOH-8" value="模型测试验证与对比分析" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="267.5" y="580" width="345" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-9" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
