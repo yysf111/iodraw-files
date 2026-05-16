@@ -81,7 +81,7 @@
         <mxCell id="DSVYktHDZwEtDfmk1ElN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-34" target="DSVYktHDZwEtDfmk1ElN-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DSVYktHDZwEtDfmk1ElN-34" value="智能体从环境中获取信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DSVYktHDZwEtDfmk1ElN-34" value="环境状态感知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="627.5" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-36" target="DSVYktHDZwEtDfmk1ElN-25">
