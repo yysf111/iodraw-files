@@ -25,7 +25,7 @@
         <mxCell id="YVD0whNBbSc9i28FVQOH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-8" target="YVD0whNBbSc9i28FVQOH-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YVD0whNBbSc9i28FVQOH-8" value="用训练好的权重模型验证智能体各项功能效果，将仿真数据保存至 CSV 文件，并利用可视化工具进行对比分析。&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="YVD0whNBbSc9i28FVQOH-8" value="智能体验证与仿真数据分析" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="267.5" y="580" width="345" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-9" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
