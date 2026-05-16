@@ -23,7 +23,7 @@
             <mxPoint x="687.5" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DSVYktHDZwEtDfmk1ElN-17" value="提取RGB特征并输入KNN分类器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DSVYktHDZwEtDfmk1ElN-17" value="RGB特征提取与KNN分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="627.5" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-19" target="DSVYktHDZwEtDfmk1ElN-36">
