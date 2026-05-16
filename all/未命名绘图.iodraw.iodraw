@@ -37,6 +37,92 @@
         <mxCell id="DSVYktHDZwEtDfmk1ElN-11" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="240" y="20" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DSVYktHDZwEtDfmk1ElN-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="687.5" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DSVYktHDZwEtDfmk1ElN-13" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="627.5" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DSVYktHDZwEtDfmk1ElN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-15" target="DSVYktHDZwEtDfmk1ElN-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DSVYktHDZwEtDfmk1ElN-15" value="不执行射击指令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="627.5" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DSVYktHDZwEtDfmk1ElN-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="687.5" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DSVYktHDZwEtDfmk1ElN-17" value="提取RGB特征并输入KNN分类器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="627.5" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DSVYktHDZwEtDfmk1ElN-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-19" target="DSVYktHDZwEtDfmk1ElN-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DSVYktHDZwEtDfmk1ElN-19" value="使用线性回归方程拟合物体轨迹" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827.5" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DSVYktHDZwEtDfmk1ElN-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="DSVYktHDZwEtDfmk1ElN-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="687.5" y="700" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DSVYktHDZwEtDfmk1ElN-21" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="677.5" y="720" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DSVYktHDZwEtDfmk1ElN-22" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="747.5" y="640" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DSVYktHDZwEtDfmk1ElN-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-25" target="DSVYktHDZwEtDfmk1ElN-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DSVYktHDZwEtDfmk1ElN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-25" target="DSVYktHDZwEtDfmk1ElN-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="807.5" y="670" />
+              <mxPoint x="807.5" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DSVYktHDZwEtDfmk1ElN-25" value="射击路径上&lt;br&gt;是否存在友军？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="620" width="135" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DSVYktHDZwEtDfmk1ElN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-27" target="DSVYktHDZwEtDfmk1ElN-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DSVYktHDZwEtDfmk1ElN-27" value="执行射击指令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827.5" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DSVYktHDZwEtDfmk1ElN-28" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="877.5" y="720" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DSVYktHDZwEtDfmk1ElN-29" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="797.5" y="720" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DSVYktHDZwEtDfmk1ElN-30" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="627.5" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DSVYktHDZwEtDfmk1ElN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-32" target="DSVYktHDZwEtDfmk1ElN-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DSVYktHDZwEtDfmk1ElN-32" value="是否存在敌方单位？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="620" width="135" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DSVYktHDZwEtDfmk1ElN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-34" target="DSVYktHDZwEtDfmk1ElN-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DSVYktHDZwEtDfmk1ElN-34" value="智能体从环境中获取信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="627.5" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DSVYktHDZwEtDfmk1ElN-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-36" target="DSVYktHDZwEtDfmk1ElN-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DSVYktHDZwEtDfmk1ElN-36" value="结合子弹速度求解逼近点，生成虚拟弹道" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827.5" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
