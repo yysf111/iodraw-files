@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
   <diagram id="V8rzc2lxs9WssVYVplAG" name="第 1 页">
-    <mxGraphModel dx="1062" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="YVD0whNBbSc9i28FVQOH-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-4" target="YVD0whNBbSc9i28FVQOH-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YVD0whNBbSc9i28FVQOH-4" value="在 Python 中借助 Pygame 构建动态二维飞行避障环境模型， 并设置奖励函数，编写算法程序" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="YVD0whNBbSc9i28FVQOH-4" value="Pygame 环境建模与算法设计" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="267.5" y="190" width="345" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-6" target="YVD0whNBbSc9i28FVQOH-8">
