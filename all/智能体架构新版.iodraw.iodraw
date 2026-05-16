@@ -37,7 +37,7 @@
         <mxCell id="S0kCsoPVfQDpViE9a9pr-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S0kCsoPVfQDpViE9a9pr-12" target="S0kCsoPVfQDpViE9a9pr-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S0kCsoPVfQDpViE9a9pr-12" value="通过获得的RGB信息判断敌我，通过线性回归预测轨迹" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S0kCsoPVfQDpViE9a9pr-12" value="通过获取的信息进行敌我判断和轨迹预测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="445" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S0kCsoPVfQDpViE9a9pr-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S0kCsoPVfQDpViE9a9pr-14" target="S0kCsoPVfQDpViE9a9pr-18">
