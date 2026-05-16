@@ -4,71 +4,121 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YVD0whNBbSc9i28FVQOH-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-2" target="YVD0whNBbSc9i28FVQOH-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="YVD0whNBbSc9i28FVQOH-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-2" target="YVD0whNBbSc9i28FVQOH-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="172.5" y="72" />
+              <mxPoint x="172.5" y="148" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="380" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="112.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YVD0whNBbSc9i28FVQOH-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-4" target="YVD0whNBbSc9i28FVQOH-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="YVD0whNBbSc9i28FVQOH-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-4" target="YVD0whNBbSc9i28FVQOH-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="172.5" y="232" />
+              <mxPoint x="172.5" y="308" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;Python&lt;/font&gt;环境建模与算法设计" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="320" y="190" width="240" height="60" as="geometry" />
+          <mxGeometry x="52.5" y="160" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YVD0whNBbSc9i28FVQOH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-6" target="YVD0whNBbSc9i28FVQOH-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="YVD0whNBbSc9i28FVQOH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-6" target="YVD0whNBbSc9i28FVQOH-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="172.5" y="612" />
+              <mxPoint x="172.5" y="688" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-6" value="模型训练与算法参数优化" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="267.5" y="450" width="345" height="90" as="geometry" />
+          <mxGeometry y="510" width="345" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="YVD0whNBbSc9i28FVQOH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-8" target="YVD0whNBbSc9i28FVQOH-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="YVD0whNBbSc9i28FVQOH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-8" target="YVD0whNBbSc9i28FVQOH-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="172.5" y="802" />
+              <mxPoint x="172.5" y="878" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-8" value="模型测试验证与对比分析" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="267.5" y="580" width="345" height="90" as="geometry" />
+          <mxGeometry y="700" width="345" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-9" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="380" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="112.5" y="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YVD0whNBbSc9i28FVQOH-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-11" target="YVD0whNBbSc9i28FVQOH-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="YVD0whNBbSc9i28FVQOH-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-11" target="YVD0whNBbSc9i28FVQOH-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="172.5" y="422" />
+              <mxPoint x="172.5" y="498" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;PyQt5可交互平台搭建&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="267.5" y="320" width="345" height="90" as="geometry" />
+          <mxGeometry y="320" width="345" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="YVD0whNBbSc9i28FVQOH-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-12" target="YVD0whNBbSc9i28FVQOH-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="YVD0whNBbSc9i28FVQOH-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-12" target="YVD0whNBbSc9i28FVQOH-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="525" y="392" />
+              <mxPoint x="525" y="468" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-12" value="&lt;font face=&quot;Times New Roman&quot;&gt;Python&lt;/font&gt;环境建模与算法设计" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="640" y="270" width="240" height="60" as="geometry" />
+          <mxGeometry x="405" y="320" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YVD0whNBbSc9i28FVQOH-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-13" target="YVD0whNBbSc9i28FVQOH-14">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="YVD0whNBbSc9i28FVQOH-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-13" target="YVD0whNBbSc9i28FVQOH-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="525" y="552" />
+              <mxPoint x="525" y="628" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-13" value="&lt;font face=&quot;Times New Roman&quot;&gt;Python&lt;/font&gt;环境建模与算法设计" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="640" y="360" width="240" height="60" as="geometry" />
+          <mxGeometry x="405" y="480" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YVD0whNBbSc9i28FVQOH-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-14" target="YVD0whNBbSc9i28FVQOH-15">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="YVD0whNBbSc9i28FVQOH-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-14" target="YVD0whNBbSc9i28FVQOH-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="525" y="712" />
+              <mxPoint x="525" y="788" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;Python&lt;/font&gt;环境建模与算法设计" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="640" y="595" width="240" height="60" as="geometry" />
+          <mxGeometry x="405" y="640" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-15" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="700" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="465" y="800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YVD0whNBbSc9i28FVQOH-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-16" target="YVD0whNBbSc9i28FVQOH-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="YVD0whNBbSc9i28FVQOH-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-16" target="YVD0whNBbSc9i28FVQOH-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="525" y="232" />
+              <mxPoint x="525" y="308" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;Python&lt;/font&gt;环境建模与算法设计" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="640" y="180" width="240" height="60" as="geometry" />
+          <mxGeometry x="405" y="160" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YVD0whNBbSc9i28FVQOH-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-17" target="YVD0whNBbSc9i28FVQOH-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="YVD0whNBbSc9i28FVQOH-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-17" target="YVD0whNBbSc9i28FVQOH-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="525" y="72" />
+              <mxPoint x="525" y="148" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-17" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="700" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="465" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
