@@ -43,7 +43,7 @@
         <mxCell id="S0kCsoPVfQDpViE9a9pr-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S0kCsoPVfQDpViE9a9pr-14" target="S0kCsoPVfQDpViE9a9pr-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S0kCsoPVfQDpViE9a9pr-14" value="使用机器学习算法，通过不断试错优化策略，进行自动避障" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S0kCsoPVfQDpViE9a9pr-14" value="通过不断试错学习避障策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="445" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S0kCsoPVfQDpViE9a9pr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S0kCsoPVfQDpViE9a9pr-16" target="S0kCsoPVfQDpViE9a9pr-20">
