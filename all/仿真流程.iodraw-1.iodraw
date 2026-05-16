@@ -19,7 +19,7 @@
         <mxCell id="YVD0whNBbSc9i28FVQOH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-6" target="YVD0whNBbSc9i28FVQOH-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YVD0whNBbSc9i28FVQOH-6" value="多线程算法训练与动态可视化" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="YVD0whNBbSc9i28FVQOH-6" value="进行模型训练并优化算法参数" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="267.5" y="450" width="345" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-8" target="YVD0whNBbSc9i28FVQOH-9">
