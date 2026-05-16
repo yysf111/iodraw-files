@@ -41,7 +41,13 @@
           <mxGeometry x="640" y="335" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-13" value="&lt;font face=&quot;Times New Roman&quot;&gt;Python&lt;/font&gt;环境建模与算法设计" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="340" y="210" width="240" height="60" as="geometry" />
+          <mxGeometry x="640" y="465" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YVD0whNBbSc9i28FVQOH-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;Python&lt;/font&gt;环境建模与算法设计" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="640" y="595" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YVD0whNBbSc9i28FVQOH-15" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="390" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
