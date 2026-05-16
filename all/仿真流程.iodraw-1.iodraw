@@ -41,13 +41,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-12" value="&lt;font face=&quot;Times New Roman&quot;&gt;Python&lt;/font&gt;环境建模与算法设计" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="640" y="300" width="240" height="60" as="geometry" />
+          <mxGeometry x="640" y="270" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-13" target="YVD0whNBbSc9i28FVQOH-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-13" value="&lt;font face=&quot;Times New Roman&quot;&gt;Python&lt;/font&gt;环境建模与算法设计" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="640" y="465" width="240" height="60" as="geometry" />
+          <mxGeometry x="640" y="360" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YVD0whNBbSc9i28FVQOH-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YVD0whNBbSc9i28FVQOH-14" target="YVD0whNBbSc9i28FVQOH-15">
           <mxGeometry relative="1" as="geometry" />
