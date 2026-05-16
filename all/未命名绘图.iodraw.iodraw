@@ -16,7 +16,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-15" value="抑制开火指令" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="627.5" y="643" width="120" height="60" as="geometry" />
+          <mxGeometry x="627.5" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-17">
           <mxGeometry relative="1" as="geometry">
@@ -24,7 +24,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;RGB&lt;/font&gt;特征提取与&lt;font face=&quot;Times New Roman&quot;&gt;KNN&lt;/font&gt;分类" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="627.5" y="497" width="120" height="60" as="geometry" />
+          <mxGeometry x="627.5" y="513" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-19" target="DSVYktHDZwEtDfmk1ElN-36">
           <mxGeometry relative="1" as="geometry" />
@@ -33,7 +33,7 @@
           <mxGeometry x="827.5" y="432" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-21" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="400" y="700" width="40" height="30" as="geometry" />
+          <mxGeometry x="677.5" y="692" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-22" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="747.5" y="640" width="40" height="30" as="geometry" />
@@ -41,8 +41,19 @@
         <mxCell id="DSVYktHDZwEtDfmk1ElN-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-25" target="DSVYktHDZwEtDfmk1ElN-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="DSVYktHDZwEtDfmk1ElN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-25" target="DSVYktHDZwEtDfmk1ElN-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="808" y="660" />
+              <mxPoint x="808" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-25" value="射击路径上&lt;br&gt;是否存在友军？" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="820" y="585" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DSVYktHDZwEtDfmk1ElN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-27" target="DSVYktHDZwEtDfmk1ElN-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-27" value="输出开火指令" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="827.5" y="740" width="120" height="60" as="geometry" />
@@ -54,22 +65,19 @@
           <mxGeometry x="797.5" y="720" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-30" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="627.5" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="627.5" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-32" target="DSVYktHDZwEtDfmk1ElN-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DSVYktHDZwEtDfmk1ElN-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-32" target="DSVYktHDZwEtDfmk1ElN-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-32" value="是否存在敌方单位？" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="620" y="560" width="135" height="80" as="geometry" />
+          <mxGeometry x="620" y="585" width="135" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-34" target="DSVYktHDZwEtDfmk1ElN-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-34" value="环境状态感知" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="627.5" y="423" width="120" height="60" as="geometry" />
+          <mxGeometry x="627.5" y="432" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-36" target="DSVYktHDZwEtDfmk1ElN-25">
           <mxGeometry relative="1" as="geometry" />
