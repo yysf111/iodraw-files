@@ -17,6 +17,14 @@
           <mxGeometry x="110" y="261" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WcGMVEHTyNkvqIa4Qjgs-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WcGMVEHTyNkvqIa4Qjgs-7" target="WcGMVEHTyNkvqIa4Qjgs-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="366" />
+              <mxPoint x="250" y="105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WcGMVEHTyNkvqIa4Qjgs-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WcGMVEHTyNkvqIa4Qjgs-7" target="WcGMVEHTyNkvqIa4Qjgs-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WcGMVEHTyNkvqIa4Qjgs-7" value="开始训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
