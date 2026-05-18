@@ -119,7 +119,7 @@
           <mxGeometry x="725" y="247.5" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WcGMVEHTyNkvqIa4Qjgs-36" value="反馈数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="770" y="236" width="70" height="30" as="geometry" />
+          <mxGeometry x="765" y="236" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WcGMVEHTyNkvqIa4Qjgs-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WcGMVEHTyNkvqIa4Qjgs-41" target="WcGMVEHTyNkvqIa4Qjgs-44">
           <mxGeometry relative="1" as="geometry" />
@@ -137,7 +137,7 @@
           <mxGeometry x="725" y="380" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WcGMVEHTyNkvqIa4Qjgs-42" value="优势估计" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="925" y="340" width="70" height="30" as="geometry" />
+          <mxGeometry x="765" y="400" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WcGMVEHTyNkvqIa4Qjgs-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WcGMVEHTyNkvqIa4Qjgs-44" target="WcGMVEHTyNkvqIa4Qjgs-52">
           <mxGeometry relative="1" as="geometry" />
