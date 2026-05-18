@@ -17,19 +17,19 @@
           <mxGeometry x="840" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-76" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="800" y="630" width="60" height="30" as="geometry" />
+          <mxGeometry x="1070" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dBikoJPbNbr3mSOJ93db-80" target="dBikoJPbNbr3mSOJ93db-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-80" value="开火" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="800" y="580" width="60" height="30" as="geometry" />
+          <mxGeometry x="990" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dBikoJPbNbr3mSOJ93db-84" target="dBikoJPbNbr3mSOJ93db-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-84" value="误伤判断" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="800" y="520" width="60" height="30" as="geometry" />
+          <mxGeometry x="920" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dBikoJPbNbr3mSOJ93db-80" target="dBikoJPbNbr3mSOJ93db-80">
           <mxGeometry relative="1" as="geometry" />
