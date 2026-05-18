@@ -267,10 +267,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WcGMVEHTyNkvqIa4Qjgs-74" value="输出训练结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="615" width="80" height="50" as="geometry" />
+          <mxGeometry x="110" y="615" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WcGMVEHTyNkvqIa4Qjgs-75" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="695" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
