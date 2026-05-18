@@ -7,8 +7,8 @@
         <mxCell id="0O1wZDUQJbFsl5QYeSCB-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="160" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0O1wZDUQJbFsl5QYeSCB-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="170" width="80" height="50" as="geometry" />
+        <mxCell id="0O1wZDUQJbFsl5QYeSCB-2" value="Q表初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="160" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
