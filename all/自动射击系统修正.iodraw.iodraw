@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="420" y="450" width="90" height="50" as="geometry" />
+          <mxGeometry x="420" y="450" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dBikoJPbNbr3mSOJ93db-6" target="dBikoJPbNbr3mSOJ93db-16">
           <mxGeometry relative="1" as="geometry" />
@@ -34,7 +34,7 @@
         <mxCell id="dBikoJPbNbr3mSOJ93db-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dBikoJPbNbr3mSOJ93db-31" target="dBikoJPbNbr3mSOJ93db-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dBikoJPbNbr3mSOJ93db-31" value="开火" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="dBikoJPbNbr3mSOJ93db-31" value="自动射击" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="969" y="450" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dBikoJPbNbr3mSOJ93db-42" target="dBikoJPbNbr3mSOJ93db-31">
