@@ -18,8 +18,10 @@
         <mxCell id="dBikoJPbNbr3mSOJ93db-4" value="抑制开火指令" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="487.5" y="797" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dBikoJPbNbr3mSOJ93db-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dBikoJPbNbr3mSOJ93db-6" target="dBikoJPbNbr3mSOJ93db-21">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dBikoJPbNbr3mSOJ93db-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dBikoJPbNbr3mSOJ93db-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="687.5" y="630" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;RGB&lt;/font&gt;特征提取与&lt;font face=&quot;Times New Roman&quot;&gt;KNN&lt;/font&gt;分类" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="627.5" y="530" width="120" height="60" as="geometry" />
@@ -40,7 +42,7 @@
           <mxGeometry x="830" y="540" width="135" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-16" value="输出开火指令" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="860" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="830" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-17" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="887.5" y="630" width="40" height="30" as="geometry" />
@@ -51,11 +53,10 @@
         <mxCell id="dBikoJPbNbr3mSOJ93db-19" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="650" y="910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dBikoJPbNbr3mSOJ93db-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dBikoJPbNbr3mSOJ93db-21" target="dBikoJPbNbr3mSOJ93db-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dBikoJPbNbr3mSOJ93db-21" value="是否存在敌方单位？" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="620" y="630" width="135" height="80" as="geometry" />
+        <mxCell id="dBikoJPbNbr3mSOJ93db-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="dBikoJPbNbr3mSOJ93db-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="755" y="670" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="dBikoJPbNbr3mSOJ93db-23" target="dBikoJPbNbr3mSOJ93db-6">
           <mxGeometry relative="1" as="geometry" />
