@@ -10,6 +10,9 @@
         <mxCell id="0O1wZDUQJbFsl5QYeSCB-2" value="Q表初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="160" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="0O1wZDUQJbFsl5QYeSCB-3" value="动作选择" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="160" width="80" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
