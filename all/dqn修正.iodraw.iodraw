@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WcGMVEHTyNkvqIa4Qjgs-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="112.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="150" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WcGMVEHTyNkvqIa4Qjgs-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WcGMVEHTyNkvqIa4Qjgs-4" target="WcGMVEHTyNkvqIa4Qjgs-7">
           <mxGeometry relative="1" as="geometry" />
