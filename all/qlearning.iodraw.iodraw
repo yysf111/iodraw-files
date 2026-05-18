@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0O1wZDUQJbFsl5QYeSCB-2" value="Q表初始化" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="0O1wZDUQJbFsl5QYeSCB-2" value="Q表初始化" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="210" y="160" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0O1wZDUQJbFsl5QYeSCB-3" value="动作选择" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
