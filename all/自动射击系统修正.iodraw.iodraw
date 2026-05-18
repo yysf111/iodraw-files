@@ -37,6 +37,9 @@
         <mxCell id="dBikoJPbNbr3mSOJ93db-80" value="开火" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="800" y="540" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dBikoJPbNbr3mSOJ93db-84" value="轨迹预测" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="900" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
