@@ -60,7 +60,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vSgFt55xEnU0J7Zc9_FZ-59" value="经验池" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="580" y="40" width="120" height="70" as="geometry" />
+          <mxGeometry x="503" y="40" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vSgFt55xEnU0J7Zc9_FZ-60" value="环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="200" width="80" height="40" as="geometry" />
@@ -102,7 +102,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vSgFt55xEnU0J7Zc9_FZ-73" value="&lt;div&gt;$$(s_t, a_t, r_t, s_{t+1})$$&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="705" y="70" width="160" height="40" as="geometry" />
+          <mxGeometry x="620" y="58" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vSgFt55xEnU0J7Zc9_FZ-74" value="$$\min(Q_1, Q_2)$$" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="410" width="140" height="40" as="geometry" />
