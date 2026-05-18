@@ -102,7 +102,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WcGMVEHTyNkvqIa4Qjgs-30" value="计算GAE优势" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="287.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="820" y="287.5" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WcGMVEHTyNkvqIa4Qjgs-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WcGMVEHTyNkvqIa4Qjgs-32" target="WcGMVEHTyNkvqIa4Qjgs-41">
           <mxGeometry relative="1" as="geometry" />
@@ -257,7 +257,7 @@
           <mxGeometry x="110" y="690" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WcGMVEHTyNkvqIa4Qjgs-18" value="输出数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="172.5" width="200" height="50" as="geometry" />
+          <mxGeometry x="840" y="172.5" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
