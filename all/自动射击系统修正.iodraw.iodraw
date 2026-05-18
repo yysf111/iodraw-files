@@ -20,7 +20,7 @@
         <mxCell id="dBikoJPbNbr3mSOJ93db-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;敌我识别&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="627.5" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dBikoJPbNbr3mSOJ93db-16" value="输出开火指令" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="dBikoJPbNbr3mSOJ93db-16" value="轨迹预测" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="830" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-19" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
