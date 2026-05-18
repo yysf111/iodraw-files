@@ -37,13 +37,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ocPuV0jPqy8dAsIP_TDZ-10" value="回放记忆单元" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="482" y="315" width="78" height="70" as="geometry" />
+          <mxGeometry x="486" y="315" width="78" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ocPuV0jPqy8dAsIP_TDZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ocPuV0jPqy8dAsIP_TDZ-2" target="ocPuV0jPqy8dAsIP_TDZ-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ocPuV0jPqy8dAsIP_TDZ-12" value="(s, a, r, s&#39;)" style="text;whiteSpace=wrap;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="290" y="330" width="90" height="40" as="geometry" />
+          <mxGeometry x="300" y="330" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ocPuV0jPqy8dAsIP_TDZ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ocPuV0jPqy8dAsIP_TDZ-6" target="ocPuV0jPqy8dAsIP_TDZ-14">
           <mxGeometry relative="1" as="geometry">
