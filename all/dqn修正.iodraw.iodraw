@@ -129,7 +129,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vSgFt55xEnU0J7Zc9_FZ-35" value="Target Q2网络" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="530" y="180" width="80" height="80" as="geometry" />
+          <mxGeometry x="520" y="180" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vSgFt55xEnU0J7Zc9_FZ-36" value="$$\tau$$" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="280" width="80" height="40" as="geometry" />
