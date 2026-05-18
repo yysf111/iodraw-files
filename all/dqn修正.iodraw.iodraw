@@ -20,7 +20,12 @@
           <mxGeometry x="634" y="180" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vSgFt55xEnU0J7Zc9_FZ-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="vSgFt55xEnU0J7Zc9_FZ-54" target="vSgFt55xEnU0J7Zc9_FZ-80">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="785" y="300" />
+              <mxPoint x="563" y="300" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="vSgFt55xEnU0J7Zc9_FZ-54" value="Q2&lt;br&gt;CRITIC网络" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="745" y="180" width="80" height="80" as="geometry" />
@@ -98,7 +103,7 @@
           <mxGeometry x="523" y="180" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vSgFt55xEnU0J7Zc9_FZ-81" value="$$\tau$$" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="310" width="80" height="40" as="geometry" />
+          <mxGeometry x="575" y="290" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vSgFt55xEnU0J7Zc9_FZ-82" value="$$\tau$$" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="265" width="80" height="40" as="geometry" />
