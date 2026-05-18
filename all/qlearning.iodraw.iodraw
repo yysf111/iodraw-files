@@ -16,8 +16,11 @@
         <mxCell id="0O1wZDUQJbFsl5QYeSCB-4" value="计算奖励" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="160" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0O1wZDUQJbFsl5QYeSCB-5" value="计算奖励" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="170" width="80" height="50" as="geometry" />
+        <mxCell id="0O1wZDUQJbFsl5QYeSCB-5" value="更新Q值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0O1wZDUQJbFsl5QYeSCB-6" value="更新Q值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="170" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
