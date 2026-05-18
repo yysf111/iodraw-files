@@ -58,7 +58,12 @@
           <mxGeometry x="820" y="620" width="135" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="DSVYktHDZwEtDfmk1ElN-27" target="DSVYktHDZwEtDfmk1ElN-30">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="888" y="810" />
+              <mxPoint x="688" y="810" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="DSVYktHDZwEtDfmk1ElN-27" value="输出开火指令" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="827.5" y="740" width="120" height="60" as="geometry" />
