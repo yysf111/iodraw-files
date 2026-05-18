@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-75" value="轨迹预测" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="970" y="310" width="90" height="50" as="geometry" />
+          <mxGeometry x="970" y="388" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-76" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="800" y="560" width="90" height="50" as="geometry" />
@@ -37,7 +37,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-80" value="开火" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="970" y="388" width="90" height="50" as="geometry" />
+          <mxGeometry x="970" y="460" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
