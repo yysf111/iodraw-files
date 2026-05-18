@@ -26,11 +26,11 @@
         <mxCell id="dBikoJPbNbr3mSOJ93db-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;RGB&lt;/font&gt;特征提取与&lt;font face=&quot;Times New Roman&quot;&gt;KNN&lt;/font&gt;分类" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="627.5" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dBikoJPbNbr3mSOJ93db-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="dBikoJPbNbr3mSOJ93db-8" target="dBikoJPbNbr3mSOJ93db-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dBikoJPbNbr3mSOJ93db-8" value="线性回归轨迹拟合" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="837.5" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="dBikoJPbNbr3mSOJ93db-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="897.5" y="410" as="sourcePoint" />
+            <mxPoint x="897.5" y="440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-10" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="545" y="750" width="40" height="30" as="geometry" />
@@ -38,14 +38,8 @@
         <mxCell id="dBikoJPbNbr3mSOJ93db-11" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="740" y="610" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dBikoJPbNbr3mSOJ93db-14" value="射击路径上&lt;br&gt;是否存在友军？" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="830" y="540" width="135" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-16" value="输出开火指令" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="830" y="800" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dBikoJPbNbr3mSOJ93db-17" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="887.5" y="630" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-18" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="1080" y="610" width="40" height="30" as="geometry" />
@@ -53,22 +47,11 @@
         <mxCell id="dBikoJPbNbr3mSOJ93db-19" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="650" y="910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dBikoJPbNbr3mSOJ93db-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="dBikoJPbNbr3mSOJ93db-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="755" y="670" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="dBikoJPbNbr3mSOJ93db-23" target="dBikoJPbNbr3mSOJ93db-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-23" value="环境状态感知" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="627.5" y="440" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dBikoJPbNbr3mSOJ93db-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="dBikoJPbNbr3mSOJ93db-25" target="dBikoJPbNbr3mSOJ93db-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dBikoJPbNbr3mSOJ93db-25" value="交汇点解算与弹道预测" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="837.5" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
