@@ -10,14 +10,14 @@
         <mxCell id="dBikoJPbNbr3mSOJ93db-71" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="800" y="340" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dBikoJPbNbr3mSOJ93db-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dBikoJPbNbr3mSOJ93db-73" target="dBikoJPbNbr3mSOJ93db-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-73" value="&lt;font&gt;敌我识别&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="800" y="447" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dBikoJPbNbr3mSOJ93db-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dBikoJPbNbr3mSOJ93db-75" target="dBikoJPbNbr3mSOJ93db-84">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-75" value="轨迹预测" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="800" y="510" width="60" height="30" as="geometry" />
+          <mxGeometry x="800" y="500" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-76" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="940" y="550" width="60" height="30" as="geometry" />
