@@ -66,7 +66,7 @@
           <mxGeometry x="200" y="170" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ocPuV0jPqy8dAsIP_TDZ-18" value="&lt;i&gt;s&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="270" width="40" height="40" as="geometry" />
+          <mxGeometry x="250" y="260" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ocPuV0jPqy8dAsIP_TDZ-19" value="每隔N时间步" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="365" y="210" width="80" height="30" as="geometry" />
@@ -86,7 +86,7 @@
         <mxCell id="ocPuV0jPqy8dAsIP_TDZ-24" value="r" style="text;whiteSpace=wrap;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="590" y="225" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ocPuV0jPqy8dAsIP_TDZ-25" value="$$\arg\max\nolimits_a Q(s,a;\theta)$$&lt;div&gt;’&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ocPuV0jPqy8dAsIP_TDZ-25" value="$$\arg\max\nolimits_a Q(s,a;\theta)$$&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="130" y="190" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ocPuV0jPqy8dAsIP_TDZ-26" value="$$\max\nolimits_{a&#39;} Q(s&#39;,a&#39;;\theta^-)$$" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
