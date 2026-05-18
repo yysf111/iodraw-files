@@ -16,7 +16,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-4" value="抑制开火指令" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="627.5" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dBikoJPbNbr3mSOJ93db-6" target="dBikoJPbNbr3mSOJ93db-21">
           <mxGeometry relative="1" as="geometry" />
@@ -34,29 +34,13 @@
           <mxGeometry x="545" y="730" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-11" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="747.5" y="640" width="40" height="30" as="geometry" />
+          <mxGeometry x="760" y="540" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="dBikoJPbNbr3mSOJ93db-14" target="dBikoJPbNbr3mSOJ93db-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dBikoJPbNbr3mSOJ93db-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="dBikoJPbNbr3mSOJ93db-14" target="dBikoJPbNbr3mSOJ93db-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="808" y="660" />
-              <mxPoint x="808" y="770" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-14" value="射击路径上&lt;br&gt;是否存在友军？" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="820" y="620" width="135" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="dBikoJPbNbr3mSOJ93db-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="dBikoJPbNbr3mSOJ93db-16" target="dBikoJPbNbr3mSOJ93db-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="888" y="810" />
-              <mxPoint x="688" y="810" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-16" value="输出开火指令" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="827.5" y="740" width="120" height="60" as="geometry" />
@@ -65,10 +49,10 @@
           <mxGeometry x="877.5" y="720" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-18" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="797.5" y="720" width="40" height="30" as="geometry" />
+          <mxGeometry x="1080" y="610" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-19" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="627.5" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-21" value="是否存在敌方单位？" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="480" y="630" width="135" height="80" as="geometry" />
