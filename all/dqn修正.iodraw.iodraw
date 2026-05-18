@@ -111,14 +111,14 @@
         <mxCell id="vSgFt55xEnU0J7Zc9_FZ-80" value="Target Q2网络" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="523" y="180" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vSgFt55xEnU0J7Zc9_FZ-81" value="$$\tau$$" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vSgFt55xEnU0J7Zc9_FZ-81" value="$$\tau$$" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="575" y="290" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vSgFt55xEnU0J7Zc9_FZ-82" value="$$\tau$$" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vSgFt55xEnU0J7Zc9_FZ-82" value="$$\tau$$" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="495" y="265" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vSgFt55xEnU0J7Zc9_FZ-85" value="$$s_t, a_t$$" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="760" y="100" width="100" height="40" as="geometry" />
+          <mxGeometry x="760" y="90" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vSgFt55xEnU0J7Zc9_FZ-86" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;$$s_t$$&lt;/font&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="90" width="100" height="40" as="geometry" />
@@ -127,10 +127,10 @@
           <mxGeometry x="440" y="90" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vSgFt55xEnU0J7Zc9_FZ-88" value="$$s_{t+1}$$" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="565" y="100" width="100" height="40" as="geometry" />
+          <mxGeometry x="565" y="90" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vSgFt55xEnU0J7Zc9_FZ-89" value="$$s_t, a_t$$" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="670" y="100" width="100" height="40" as="geometry" />
+          <mxGeometry x="670" y="90" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vSgFt55xEnU0J7Zc9_FZ-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.286;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vSgFt55xEnU0J7Zc9_FZ-52" target="vSgFt55xEnU0J7Zc9_FZ-63">
           <mxGeometry relative="1" as="geometry" />
