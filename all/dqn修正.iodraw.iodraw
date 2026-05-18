@@ -17,10 +17,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ocPuV0jPqy8dAsIP_TDZ-5" value="当前值网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="220" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ocPuV0jPqy8dAsIP_TDZ-6" value="目标值网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="220" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ocPuV0jPqy8dAsIP_TDZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.145;exitY=0;exitDx=0;exitDy=4.35;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocPuV0jPqy8dAsIP_TDZ-10" target="ocPuV0jPqy8dAsIP_TDZ-5">
           <mxGeometry relative="1" as="geometry" />
