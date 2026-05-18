@@ -40,10 +40,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-14" value="射击路径上&lt;br&gt;是否存在友军？" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="957.5" y="530" width="135" height="80" as="geometry" />
+          <mxGeometry x="830" y="540" width="135" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-16" value="输出开火指令" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="837.5" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="837.5" y="767" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-17" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="887.5" y="630" width="40" height="30" as="geometry" />
