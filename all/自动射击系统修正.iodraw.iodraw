@@ -4,6 +4,39 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dBikoJPbNbr3mSOJ93db-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dBikoJPbNbr3mSOJ93db-60" target="dBikoJPbNbr3mSOJ93db-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dBikoJPbNbr3mSOJ93db-60" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="730" y="360" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dBikoJPbNbr3mSOJ93db-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dBikoJPbNbr3mSOJ93db-62" target="dBikoJPbNbr3mSOJ93db-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dBikoJPbNbr3mSOJ93db-62" value="&lt;font&gt;敌我识别&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="958" y="360" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dBikoJPbNbr3mSOJ93db-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dBikoJPbNbr3mSOJ93db-64" target="dBikoJPbNbr3mSOJ93db-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dBikoJPbNbr3mSOJ93db-64" value="轨迹预测" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="1071" y="360" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dBikoJPbNbr3mSOJ93db-65" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="1299" y="360" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dBikoJPbNbr3mSOJ93db-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dBikoJPbNbr3mSOJ93db-67" target="dBikoJPbNbr3mSOJ93db-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dBikoJPbNbr3mSOJ93db-67" value="环境状态感知" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="844" y="360" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dBikoJPbNbr3mSOJ93db-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dBikoJPbNbr3mSOJ93db-69" target="dBikoJPbNbr3mSOJ93db-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dBikoJPbNbr3mSOJ93db-69" value="开火" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="1185" y="360" width="90" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
