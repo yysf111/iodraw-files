@@ -111,10 +111,10 @@
         <mxCell id="vSgFt55xEnU0J7Zc9_FZ-80" value="&lt;font face=&quot;Times New Roman&quot;&gt;Target Q2&lt;/font&gt;网络" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="523" y="180" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vSgFt55xEnU0J7Zc9_FZ-81" value="$$\tau$$" style="text;whiteSpace=wrap;html=1;fontSize=20;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="vSgFt55xEnU0J7Zc9_FZ-81" value="$$\tau$$" style="text;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="565" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vSgFt55xEnU0J7Zc9_FZ-82" value="$$\tau$$" style="text;whiteSpace=wrap;html=1;fontSize=20;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="vSgFt55xEnU0J7Zc9_FZ-82" value="$$\tau$$" style="text;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="450" y="265" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vSgFt55xEnU0J7Zc9_FZ-85" value="$$s_t, a_t$$" style="text;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
