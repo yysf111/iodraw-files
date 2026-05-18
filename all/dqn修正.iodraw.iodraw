@@ -208,10 +208,10 @@
           <mxGeometry x="694.5" y="630" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WcGMVEHTyNkvqIa4Qjgs-69" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="665" y="630" width="40" height="30" as="geometry" />
+          <mxGeometry x="665" y="660" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WcGMVEHTyNkvqIa4Qjgs-70" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="665" y="680" width="40" height="30" as="geometry" />
+          <mxGeometry x="665" y="710" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WcGMVEHTyNkvqIa4Qjgs-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WcGMVEHTyNkvqIa4Qjgs-72" target="WcGMVEHTyNkvqIa4Qjgs-74">
           <mxGeometry relative="1" as="geometry" />
