@@ -4,8 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dBikoJPbNbr3mSOJ93db-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dBikoJPbNbr3mSOJ93db-71" target="dBikoJPbNbr3mSOJ93db-78">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dBikoJPbNbr3mSOJ93db-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dBikoJPbNbr3mSOJ93db-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="393" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-71" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="800" y="340" width="60" height="30" as="geometry" />
@@ -25,11 +27,10 @@
         <mxCell id="dBikoJPbNbr3mSOJ93db-76" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="950" y="500" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dBikoJPbNbr3mSOJ93db-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="dBikoJPbNbr3mSOJ93db-78" target="dBikoJPbNbr3mSOJ93db-73">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dBikoJPbNbr3mSOJ93db-78" value="环境状态感知" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="800" y="393" width="60" height="30" as="geometry" />
+        <mxCell id="dBikoJPbNbr3mSOJ93db-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" target="dBikoJPbNbr3mSOJ93db-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="423" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dBikoJPbNbr3mSOJ93db-80" target="dBikoJPbNbr3mSOJ93db-76">
           <mxGeometry relative="1" as="geometry" />
