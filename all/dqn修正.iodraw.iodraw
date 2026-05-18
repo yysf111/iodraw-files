@@ -13,40 +13,8 @@
         <mxCell id="vSgFt55xEnU0J7Zc9_FZ-48" value="ACTOR网络" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="300" y="180" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vSgFt55xEnU0J7Zc9_FZ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="vSgFt55xEnU0J7Zc9_FZ-52" target="vSgFt55xEnU0J7Zc9_FZ-78">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="730" y="260" />
-              <mxPoint x="730" y="280" />
-              <mxPoint x="495" y="280" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vSgFt55xEnU0J7Zc9_FZ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vSgFt55xEnU0J7Zc9_FZ-52">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="750" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vSgFt55xEnU0J7Zc9_FZ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" target="vSgFt55xEnU0J7Zc9_FZ-52">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="710" y="350" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="710" y="305" />
-              <mxPoint x="654" y="305" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vSgFt55xEnU0J7Zc9_FZ-52" value="Q1&lt;br&gt;CRITIC网络" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="634" y="180" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="vSgFt55xEnU0J7Zc9_FZ-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="vSgFt55xEnU0J7Zc9_FZ-54" target="vSgFt55xEnU0J7Zc9_FZ-80">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="850" y="260" />
-              <mxPoint x="850" y="300" />
-              <mxPoint x="615" y="300" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="vSgFt55xEnU0J7Zc9_FZ-54" value="Q2&lt;br&gt;CRITIC网络" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="745" y="180" width="80" height="80" as="geometry" />
@@ -128,9 +96,6 @@
         </mxCell>
         <mxCell id="vSgFt55xEnU0J7Zc9_FZ-82" value="$$\tau$$" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="265" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="vSgFt55xEnU0J7Zc9_FZ-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.667;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="vSgFt55xEnU0J7Zc9_FZ-63" target="vSgFt55xEnU0J7Zc9_FZ-54">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vSgFt55xEnU0J7Zc9_FZ-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vSgFt55xEnU0J7Zc9_FZ-54">
           <mxGeometry relative="1" as="geometry">
