@@ -44,7 +44,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fPLr1eTAiICD6cfmrBRy-9" value="Q2&lt;br&gt;CRITIC网络" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="fPLr1eTAiICD6cfmrBRy-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;Q2&lt;br&gt;CRITIC&lt;/font&gt;网络" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="810" y="180" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fPLr1eTAiICD6cfmrBRy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="fPLr1eTAiICD6cfmrBRy-14" target="fPLr1eTAiICD6cfmrBRy-3">
