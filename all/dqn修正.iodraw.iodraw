@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ocPuV0jPqy8dAsIP_TDZ-5" value="当前值网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="220" width="80" height="60" as="geometry" />
+          <mxGeometry x="290" y="220" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ocPuV0jPqy8dAsIP_TDZ-6" value="目标值网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="220" width="80" height="60" as="geometry" />
