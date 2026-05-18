@@ -110,7 +110,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WcGMVEHTyNkvqIa4Qjgs-32" value="计算回报&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:等线;&amp;lt;br/&amp;gt;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&amp;lt;br/&amp;gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&amp;lt;br/&amp;gt;mso-bidi-theme-font:minor-bidi;mso-ligatures:none;mso-ansi-language:EN-US;&amp;lt;br/&amp;gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;&lt;img src=&quot;data:image/png;base64,R0lGODlhFAAXAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAAABgAUABEAhAAAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAZjo6kDpmkDqQ22YAAGa222a2/5A6AJDb/7ZmALZmOrZmZrbb/7b//9uQOtv///+2Zv/bkP/btv/b2///tv//2wECAwV1IAB0TWCahCOu7Ko1BgZ4UvC0uIYwLnLgrYyt9wOuLgPLqnYzziAxAGcS4DlHpdOichUJb5tGsXsRREQSc0ujkIk8UPdlyJKMsWOhdQQ5RedjJFEiJE0AQiZFcAEKXAAaCUpdLReDk0t3l3AMHhRnlwBzBZ8hADs=&quot; height=&quot;18&quot; width=&quot;16&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="980" y="287.5" width="80" height="50" as="geometry" />
+          <mxGeometry x="770" y="315" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WcGMVEHTyNkvqIa4Qjgs-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WcGMVEHTyNkvqIa4Qjgs-35" target="WcGMVEHTyNkvqIa4Qjgs-30">
           <mxGeometry relative="1" as="geometry" />
@@ -156,13 +156,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WcGMVEHTyNkvqIa4Qjgs-44" value="计算新旧策略比率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="430" width="110" height="30" as="geometry" />
+          <mxGeometry x="615" y="460" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WcGMVEHTyNkvqIa4Qjgs-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WcGMVEHTyNkvqIa4Qjgs-46" target="WcGMVEHTyNkvqIa4Qjgs-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WcGMVEHTyNkvqIa4Qjgs-46" value="计算目标函数损失" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="430" width="110" height="30" as="geometry" />
+          <mxGeometry x="740" y="460" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WcGMVEHTyNkvqIa4Qjgs-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WcGMVEHTyNkvqIa4Qjgs-48" target="WcGMVEHTyNkvqIa4Qjgs-52">
           <mxGeometry relative="1" as="geometry" />
