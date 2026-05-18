@@ -115,7 +115,7 @@
         <mxCell id="WcGMVEHTyNkvqIa4Qjgs-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="WcGMVEHTyNkvqIa4Qjgs-35" target="WcGMVEHTyNkvqIa4Qjgs-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WcGMVEHTyNkvqIa4Qjgs-35" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="WcGMVEHTyNkvqIa4Qjgs-35" value="&lt;font face=&quot;Times New Roman&quot;&gt;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="725" y="247.5" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WcGMVEHTyNkvqIa4Qjgs-36" value="反馈数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
@@ -133,7 +133,7 @@
         <mxCell id="WcGMVEHTyNkvqIa4Qjgs-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="WcGMVEHTyNkvqIa4Qjgs-41" target="WcGMVEHTyNkvqIa4Qjgs-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WcGMVEHTyNkvqIa4Qjgs-41" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="WcGMVEHTyNkvqIa4Qjgs-41" value="&lt;font face=&quot;Times New Roman&quot;&gt;4&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="725" y="380" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WcGMVEHTyNkvqIa4Qjgs-42" value="优势估计" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
