@@ -16,6 +16,9 @@
         <mxCell id="dBikoJPbNbr3mSOJ93db-73" value="&lt;font&gt;敌我识别&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="800" y="440" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dBikoJPbNbr3mSOJ93db-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dBikoJPbNbr3mSOJ93db-75" target="dBikoJPbNbr3mSOJ93db-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-75" value="轨迹预测" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="800" y="490" width="60" height="30" as="geometry" />
         </mxCell>
@@ -34,8 +37,11 @@
         <mxCell id="dBikoJPbNbr3mSOJ93db-80" value="开火" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="800" y="600" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dBikoJPbNbr3mSOJ93db-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dBikoJPbNbr3mSOJ93db-84" target="dBikoJPbNbr3mSOJ93db-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-84" value="误伤判断" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="900" y="500" width="60" height="30" as="geometry" />
+          <mxGeometry x="800" y="540" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
