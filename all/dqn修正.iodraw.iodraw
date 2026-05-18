@@ -16,7 +16,7 @@
         <mxCell id="vSgFt55xEnU0J7Zc9_FZ-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;fontFamily=宋体;" edge="1" parent="1" source="vSgFt55xEnU0J7Zc9_FZ-52" target="vSgFt55xEnU0J7Zc9_FZ-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vSgFt55xEnU0J7Zc9_FZ-52" value="Q1&lt;br&gt;CRITIC网络" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="vSgFt55xEnU0J7Zc9_FZ-52" value="&lt;font face=&quot;Times New Roman&quot;&gt;Q1&lt;br&gt;CRITIC&lt;/font&gt;网络" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="634" y="180" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vSgFt55xEnU0J7Zc9_FZ-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;fontFamily=宋体;" edge="1" parent="1" source="vSgFt55xEnU0J7Zc9_FZ-54" target="vSgFt55xEnU0J7Zc9_FZ-80">
@@ -36,7 +36,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vSgFt55xEnU0J7Zc9_FZ-54" value="Q2&lt;br&gt;CRITIC网络" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="vSgFt55xEnU0J7Zc9_FZ-54" value="&lt;font face=&quot;Times New Roman&quot;&gt;Q2&lt;br&gt;CRITIC&lt;/font&gt;网络" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="745" y="180" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vSgFt55xEnU0J7Zc9_FZ-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="vSgFt55xEnU0J7Zc9_FZ-59" target="vSgFt55xEnU0J7Zc9_FZ-48">
