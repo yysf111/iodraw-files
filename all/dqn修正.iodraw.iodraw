@@ -238,7 +238,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WcGMVEHTyNkvqIa4Qjgs-72" value="是否达到最大回合" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="95" y="471" width="110" height="60" as="geometry" />
+          <mxGeometry x="95" y="460" width="125" height="71" as="geometry" />
         </mxCell>
         <mxCell id="WcGMVEHTyNkvqIa4Qjgs-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="WcGMVEHTyNkvqIa4Qjgs-74" target="WcGMVEHTyNkvqIa4Qjgs-75">
           <mxGeometry relative="1" as="geometry" />
