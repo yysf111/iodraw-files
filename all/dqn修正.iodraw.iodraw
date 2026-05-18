@@ -231,7 +231,7 @@
           <mxGeometry x="509" y="690" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WcGMVEHTyNkvqIa4Qjgs-63" value="策略及价值更新" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="615" y="518" width="110" height="30" as="geometry" />
+          <mxGeometry x="474" y="540" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WcGMVEHTyNkvqIa4Qjgs-64" value="继续回合" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="635" width="70" height="30" as="geometry" />
