@@ -4,11 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dBikoJPbNbr3mSOJ93db-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="dBikoJPbNbr3mSOJ93db-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="687.5" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="627.5" y="350" width="90" height="50" as="geometry" />
         </mxCell>
@@ -30,7 +25,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-23" value="环境状态感知" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="627.5" y="440" width="90" height="50" as="geometry" />
+          <mxGeometry x="627.5" y="430" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dBikoJPbNbr3mSOJ93db-31" value="开火" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="627.5" y="700" width="90" height="50" as="geometry" />
