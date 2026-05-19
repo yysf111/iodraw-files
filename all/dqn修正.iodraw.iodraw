@@ -19,6 +19,9 @@
         <mxCell id="315HxUWRQimbg7waVhZR-10" value="自动避障模块" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="490" y="305" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="mmTQGIOIQSFWpvAuPWHV-1" value="自动射击模块" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="180" y="380" width="80" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
