@@ -16,6 +16,9 @@
         <mxCell id="mmTQGIOIQSFWpvAuPWHV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="315HxUWRQimbg7waVhZR-8" target="mmTQGIOIQSFWpvAuPWHV-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mmTQGIOIQSFWpvAuPWHV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="315HxUWRQimbg7waVhZR-8" target="mmTQGIOIQSFWpvAuPWHV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="315HxUWRQimbg7waVhZR-8" value="自动射击模块" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="250" y="305" width="80" height="50" as="geometry" />
         </mxCell>
@@ -26,16 +29,16 @@
           <mxGeometry x="150" y="400" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mmTQGIOIQSFWpvAuPWHV-2" value="基于线性回归的轨迹预测" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="250" y="390" width="80" height="50" as="geometry" />
+          <mxGeometry x="250" y="400" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mmTQGIOIQSFWpvAuPWHV-3" value="基于最小迫近点理论的防误伤机制" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="350" y="390" width="80" height="50" as="geometry" />
+          <mxGeometry x="350" y="400" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mmTQGIOIQSFWpvAuPWHV-4" value="基于人工势场发的自动避障" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="460" y="390" width="80" height="50" as="geometry" />
+          <mxGeometry x="460" y="400" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mmTQGIOIQSFWpvAuPWHV-5" value="基于强化学习的自动避障" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="570" y="390" width="80" height="50" as="geometry" />
+          <mxGeometry x="570" y="400" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
