@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="A0vguts-m9LrMvKf4Q2y-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;PyQt5&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;可交互平台搭建&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="190" y="264" width="240" height="60" as="geometry" />
+          <mxGeometry x="190" y="264" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A0vguts-m9LrMvKf4Q2y-4" value="模型训练与算法参数优化" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="560" y="264" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A0vguts-m9LrMvKf4Q2y-6" value="模型测试验证与对比分析" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="430" y="400" width="240" height="60" as="geometry" />
+          <mxGeometry x="430" y="400" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A0vguts-m9LrMvKf4Q2y-7" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="680" y="130" width="120" height="60" as="geometry" />
