@@ -25,6 +25,12 @@
         <mxCell id="315HxUWRQimbg7waVhZR-8" value="自动射击模块" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="250" y="305" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="mmTQGIOIQSFWpvAuPWHV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="315HxUWRQimbg7waVhZR-10" target="mmTQGIOIQSFWpvAuPWHV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mmTQGIOIQSFWpvAuPWHV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="315HxUWRQimbg7waVhZR-10" target="mmTQGIOIQSFWpvAuPWHV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="315HxUWRQimbg7waVhZR-10" value="自动避障模块" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="510" y="305" width="80" height="50" as="geometry" />
         </mxCell>
@@ -37,7 +43,7 @@
         <mxCell id="mmTQGIOIQSFWpvAuPWHV-3" value="基于最小迫近点理论的防误伤机制" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="350" y="400" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mmTQGIOIQSFWpvAuPWHV-4" value="基于人工势场发的自动避障" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="mmTQGIOIQSFWpvAuPWHV-4" value="基于人工势场法的自动避障" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="460" y="400" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mmTQGIOIQSFWpvAuPWHV-5" value="基于强化学习的自动避障" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
