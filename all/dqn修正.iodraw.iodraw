@@ -13,33 +13,11 @@
         <mxCell id="315HxUWRQimbg7waVhZR-5" value="智能体" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="390" y="208" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="315HxUWRQimbg7waVhZR-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" parent="1" source="315HxUWRQimbg7waVhZR-8" target="315HxUWRQimbg7waVhZR-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="315HxUWRQimbg7waVhZR-8" value="自动射击模块" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="250" y="305" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="315HxUWRQimbg7waVhZR-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" parent="1" source="315HxUWRQimbg7waVhZR-10" target="315HxUWRQimbg7waVhZR-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="315HxUWRQimbg7waVhZR-10" value="自动避障模块" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="490" y="305" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="315HxUWRQimbg7waVhZR-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" parent="1" source="315HxUWRQimbg7waVhZR-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="560" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="315HxUWRQimbg7waVhZR-12" value="敌我识别与轨迹预测" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="250" y="445" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="315HxUWRQimbg7waVhZR-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" parent="1" source="315HxUWRQimbg7waVhZR-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="560" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="315HxUWRQimbg7waVhZR-14" value="强化学习避障决策" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="490" y="445" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
