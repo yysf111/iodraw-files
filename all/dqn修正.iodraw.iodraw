@@ -28,6 +28,9 @@
         <mxCell id="mmTQGIOIQSFWpvAuPWHV-3" value="基于最小迫近点理论的防误伤机制" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="350" y="390" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="mmTQGIOIQSFWpvAuPWHV-4" value="基于线性回归的轨迹预测" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="260" y="400" width="80" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
